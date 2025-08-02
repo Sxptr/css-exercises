@@ -9,3 +9,8 @@
 .tercer-elemento{
     font-size: 24px;
 }
+#cuarto-elemento{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 900;
+}
