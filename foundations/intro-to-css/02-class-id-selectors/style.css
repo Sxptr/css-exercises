@@ -1,0 +1,11 @@
+.impar{
+    background-color: hsl(0, 80%, 76%);
+    font-family: "Verdena","DejaVU Sans", sans-serif;
+}
+#segundo-elemento{
+    color: blue;
+    font-size: 36px;
+}
+.tercer-elemento{
+    font-size: 24px;
+}
