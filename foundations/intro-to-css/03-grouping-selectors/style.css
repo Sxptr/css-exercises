@@ -1,0 +1,11 @@
+.botones{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
+.botones .me{
+    background-color: black;
+    color: white;
+}
+.botones .no-me{
+    background-color: yellow;
+}
